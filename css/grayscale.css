@@ -179,7 +179,7 @@
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 10rem 0 0 0;
 }
 
 .projects-section .featured-text {
@@ -207,6 +207,11 @@
     border-width: .25rem;
     width: 30%;
   }
+}
+
+.projects-section .button-container {
+  margin: auto;
+  padding: 5rem;
 }
 
 .signup-section {
